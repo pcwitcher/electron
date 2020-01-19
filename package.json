@@ -1,0 +1,9 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "test electron",
+  "main": "index.js",
+  "repository": "github.com/pcwitcher/electron",
+  "author": "PCWitcher <pcwitcher.ie@gmail.com>",
+  "license": "MIT"
+}
